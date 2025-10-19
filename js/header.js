@@ -16,3 +16,6 @@ header.innerHTML = `
         </div>
         </header>
         `;
+
+// <script defer src="./js/header.js"></script>
+//<div id="header" class="my-header"></div>
