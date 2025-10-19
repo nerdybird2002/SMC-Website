@@ -3,7 +3,7 @@ body {
 }
 
 p {
-  color: blueviolet;
+  color: rgb(98, 12, 56);
   font-weight: 200;
 }
 
@@ -21,4 +21,19 @@ p {
   display: inline-block;
   font-size: 16px;
   cursor: pointer;
+}
+
+.informationbox {
+  display: flex;
+  flex-wrap: wrap;
+  /*background-color: aliceblue;*/
+}
+
+.informationbox div {
+  background-color: #f5ebeb;
+  margin: 10px;
+  padding: 10px;
+  margin-bottom: 10px;
+  font-size: 18px;
+  flex-grow: calc(8);
 }
