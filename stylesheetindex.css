@@ -37,3 +37,13 @@ p {
   font-size: 18px;
   flex-grow: calc(8);
 }
+
+.mainevents {
+  display: flex;
+}
+
+.mainevents div {
+  background-color: #f5ebeb;
+  margin: 10px;
+  padding: 10px;
+}
