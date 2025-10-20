@@ -26,7 +26,6 @@ p {
 .informationbox {
   display: flex;
   flex-wrap: wrap;
-  /*background-color: aliceblue;*/
 }
 
 .informationbox div {
