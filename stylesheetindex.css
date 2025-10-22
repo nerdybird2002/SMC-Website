@@ -25,7 +25,6 @@ p {
 
 .informationbox {
   display: flex;
-  flex-wrap: wrap;
 }
 
 .informationbox div {
